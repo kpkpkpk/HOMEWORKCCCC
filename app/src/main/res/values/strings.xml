@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">easyFinder</string>
+    <string name="text_title">Quadratic Equation (y = ax² + bx + c)</string>
+    <string name="a_hint">Input a</string>
+    <string name="b_hint">Input b</string>
+    <string name="c_hint">Input c</string>
+    <string name="button_text">Get Result</string>
+    <string name="result_text">Result</string>
+    <string name="error_coefficient">Please enter a coefficient a</string>
+</resources>

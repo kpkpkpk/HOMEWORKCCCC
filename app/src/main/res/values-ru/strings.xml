@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">easyFinder</string>
+    <string name="text_title">Квадратное уравнение вида  y = ax² + bx + c</string>
+    <string name="a_hint">Введи a</string>
+    <string name="b_hint">Введи b</string>
+    <string name="c_hint">Введи c</string>
+    <string name="button_text">Получить результат</string>
+    <string name="result_text">Ваш результат</string>
+    <string name="error_coefficient">Введите правильный коэффициент a</string>
+</resources>
